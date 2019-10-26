@@ -98,6 +98,8 @@ celerybeat-schedule
 # Environments
 .env
 .venv
+.venv-house-prices-prediction
+.venv-house-prices-prediction/
 env/
 venv/
 ENV/
